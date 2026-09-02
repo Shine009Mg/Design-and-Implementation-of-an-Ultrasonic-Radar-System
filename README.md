@@ -125,12 +125,6 @@ Ultrasonic-Radar-MATLAB/
 └── README.md
 ```
 
-## 👨‍💻 Team
-
-* **Arya Pangging** – 6730340436
-* **Shine Lin Htet** – 6730161035
-* **Min Aung Thu Hein Htut** – 6730161027
-
 ## 📚 Skills Demonstrated
 
 **Arduino • MATLAB • Ultrasonic Sensing • Sensor Calibration • Signal Filtering • Serial Communication • Data Logging • Measurement Analysis • Robotics • Automation**
