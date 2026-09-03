@@ -17,7 +17,8 @@ The HC-SR04 sensor is mounted on a servo motor that scans approximately **0°–
 * Visualize distance and angle information in MATLAB.
 * Apply filtering and calibration to improve measurement performance.
 * Analyze measurement accuracy and uncertainty.
-![Uploading Design and Implementation of an Ultrasonic Radar System with MATLAB Visualization (1).png…]()
+<img width="985" height="576" alt="Design and Implementation of an Ultrasonic Radar System with MATLAB Visualization (1)" src="https://github.com/user-attachments/assets/22e7683d-cfad-43ec-98db-7b495a9321c2" />
+
 
 ## Hardware
 
