@@ -1,3 +1,4 @@
+![Uploading Design and Implementation of an Ultrasonic Radar System with MATLAB Visualization.png…]()
 #  Ultrasonic Radar System with MATLAB Visualization
 
 An ultrasonic radar system developed using **Arduino UNO, HC-SR04 ultrasonic sensor, SG90 servo motor, and MATLAB**. The system measures object distance at different angles and displays the detected objects using a radar-style polar visualization.
