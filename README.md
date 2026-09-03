@@ -2,7 +2,7 @@
 
 An ultrasonic radar system developed using **Arduino UNO, HC-SR04 ultrasonic sensor, SG90 servo motor, and MATLAB**. The system measures object distance at different angles and displays the detected objects using a radar-style polar visualization.
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates the principles of ultrasonic distance measurement, sensor scanning, data acquisition, calibration, filtering, and real-time visualization.
 
