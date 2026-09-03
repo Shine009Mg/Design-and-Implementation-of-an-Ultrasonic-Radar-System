@@ -1,4 +1,4 @@
-# 📡 Ultrasonic Radar System with MATLAB Visualization
+#  Ultrasonic Radar System with MATLAB Visualization
 
 An ultrasonic radar system developed using **Arduino UNO, HC-SR04 ultrasonic sensor, SG90 servo motor, and MATLAB**. The system measures object distance at different angles and displays the detected objects using a radar-style polar visualization.
 
@@ -8,7 +8,7 @@ This project demonstrates the principles of ultrasonic distance measurement, sen
 
 The HC-SR04 sensor is mounted on a servo motor that scans approximately **0°–180°**. Arduino processes the ultrasonic echo signal and sends the **angle and distance data** to MATLAB through serial communication. MATLAB then visualizes the measurements as a radar-style display.
 
-## 🎯 Objectives
+## Objectives
 
 * Measure the distance of objects using an HC-SR04 ultrasonic sensor.
 * Rotate the sensor using an SG90 servo motor.
@@ -17,7 +17,7 @@ The HC-SR04 sensor is mounted on a servo motor that scans approximately **0°–
 * Apply filtering and calibration to improve measurement performance.
 * Analyze measurement accuracy and uncertainty.
 
-## 🛠️ Hardware
+## Hardware
 
 | Component        | Function                            |
 | ---------------- | ----------------------------------- |
@@ -28,7 +28,7 @@ The HC-SR04 sensor is mounted on a servo motor that scans approximately **0°–
 
 The project uses Arduino UNO as the main controller, HC-SR04 for distance measurement, and a servo motor to scan the environment.
 
-## 💻 Software
+## Software
 
 * **Arduino IDE** – Programming and sensor/servo control
 * **MATLAB** – Data processing, visualization, and analysis
@@ -36,7 +36,7 @@ The project uses Arduino UNO as the main controller, HC-SR04 for distance measur
 
 Arduino sends formatted **angle + distance** data through serial communication, while MATLAB receives the data and displays it using a polar plot.
 
-## ⚙️ System Workflow
+## System Workflow
 
 ```text
 HC-SR04 Ultrasonic Sensor
@@ -56,7 +56,7 @@ HC-SR04 Ultrasonic Sensor
  Radar Visualization
 ```
 
-## 🔬 Measurement Improvement
+## Measurement Improvement
 
 During testing, small oscillations and unstable measurements were observed due to noise and echo reflections. A **moving average filter** and **sensor calibration** were applied to improve the system performance.
 
@@ -66,7 +66,7 @@ Calibration equation:
 Corrected Distance = 1.0411 × Measured Distance − 7.5751
 ```
 
-## 📊 Experimental Results
+##  Experimental Results
 
 | Parameter                |   Result |
 | ------------------------ | -------: |
@@ -78,7 +78,7 @@ Corrected Distance = 1.0411 × Measured Distance − 7.5751
 
 The experimental data was also logged as a **CSV file using MATLAB** for post-analysis.
 
-## 📈 Example Measurement
+## Example Measurement
 
 | Actual Distance (mm) | Measured Distance (mm) |
 | -------------------: | ---------------------: |
@@ -94,7 +94,7 @@ The experimental data was also logged as a **CSV file using MATLAB** for post-an
 |                  190 |                 190.24 |
 |                  200 |                 200.78 |
 
-## 🚀 Applications
+## Applications
 
 This project demonstrates concepts that can be applied to:
 
@@ -105,7 +105,7 @@ This project demonstrates concepts that can be applied to:
 * Industrial automation
 * Basic sonar/radar visualization
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Ultrasonic-Radar-MATLAB/
@@ -125,11 +125,11 @@ Ultrasonic-Radar-MATLAB/
 └── README.md
 ```
 
-## 📚 Skills Demonstrated
+## Skills Demonstrated
 
 **Arduino • MATLAB • Ultrasonic Sensing • Sensor Calibration • Signal Filtering • Serial Communication • Data Logging • Measurement Analysis • Robotics • Automation**
 
-## 📄 Project Type
+## Project Type
 
 Engineering Measurement Project
 **University Project – Robotics and Automation Engineering**
