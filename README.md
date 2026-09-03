@@ -1,7 +1,8 @@
 #  Ultrasonic Radar System with MATLAB Visualization
 
 An ultrasonic radar system developed using **Arduino UNO, HC-SR04 ultrasonic sensor, SG90 servo motor, and MATLAB**. The system measures object distance at different angles and displays the detected objects using a radar-style polar visualization.
-<img width="743" height="557" alt="Design and Implementation of an Ultrasonic Radar System with MATLAB Visualization" src="https://github.com/user-attachments/assets/32ac8b0d-fe2b-48a6-8f31-4731301c64c1" />
+
+<img width="985" height="576" alt="Design and Implementation of an Ultrasonic Radar System with MATLAB Visualization (1)" src="https://github.com/user-attachments/assets/22e7683d-cfad-43ec-98db-7b495a9321c2" />
 
 ## Project Overview
 
@@ -17,7 +18,7 @@ The HC-SR04 sensor is mounted on a servo motor that scans approximately **0°–
 * Visualize distance and angle information in MATLAB.
 * Apply filtering and calibration to improve measurement performance.
 * Analyze measurement accuracy and uncertainty.
-<img width="985" height="576" alt="Design and Implementation of an Ultrasonic Radar System with MATLAB Visualization (1)" src="https://github.com/user-attachments/assets/22e7683d-cfad-43ec-98db-7b495a9321c2" />
+
 
 
 ## Hardware
