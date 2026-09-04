@@ -135,9 +135,9 @@ Ultrasonic-Radar-MATLAB/
 
 ## Team Members
 
-### Shine Lin Htet
-### Min Aung Thu Hein Htut
-### Arya Pangging
+### - Shine Lin Htet
+### - Min Aung Thu Hein Htut
+### - Arya Pangging
 
 ## Project Type
 
