@@ -133,6 +133,12 @@ Ultrasonic-Radar-MATLAB/
 
 **Arduino • MATLAB • Ultrasonic Sensing • Sensor Calibration • Signal Filtering • Serial Communication • Data Logging • Measurement Analysis • Robotics • Automation**
 
+## Team Members
+
+### Shine Lin Htet
+### Min Aung Thu Hein Htut
+### Arya Pangging
+
 ## Project Type
 
 Engineering Measurement Project
